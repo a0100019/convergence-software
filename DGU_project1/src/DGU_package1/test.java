@@ -7,7 +7,7 @@ import java.util.List;
 
 
 class studentclass {
-	int qweqd11;
+	int q111111;
 	String name;
 	int number;
 	int grade;
